@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string-array name="recipe_names">
+        <item>Spaghetti Aglio e Olio</item>
+        <item>Chicken Curry</item>
+        <item>Vegetable Stir-Fry</item>
+        <item>Caprese Salad</item>
+        <item>Tacos</item>
+        <item>Pancakes</item>
+        <item>Beef Stir-Fry</item>
+        <item>Minestrone Soup</item>
+        <item>Chocolate Chip Cookies</item>
+        <item>Greek Yogurt Parfait</item>
+    </string-array>
+
+    <string name="spaghetti_ingredients">400g spaghetti, 4 cloves garlic (sliced), 1/2 cup olive oil, 1 tsp red pepper flakes, salt, fresh parsley (chopped), grated Parmesan (optional).</string>
+    <string name="spaghetti_instructions">Cook spaghetti in salted water until al dente, reserve 1 cup pasta water, then drain. In a large pan, heat olive oil over medium heat, add garlic and sauté until golden, then add red pepper flakes and cook for another minute. Toss spaghetti in the pan, adding reserved pasta water as needed, season with salt, garnish with parsley, and serve with Parmesan.</string>
+
+    <string name="chicken_curry_ingredients">500g chicken (diced), 1 onion (chopped), 2 cloves garlic (minced), 1-inch ginger (grated), 2 cups coconut milk, 2 tbsp curry powder, 1 tbsp vegetable oil, salt, pepper, fresh cilantro (for garnish).</string>
+    <string name="chicken_curry_instructions">Heat oil in a pot over medium heat, sauté onion, garlic, and ginger until softened, then add chicken and brown on all sides. Stir in curry powder and cook for 1 minute, pour in coconut milk, season with salt and pepper, and simmer for 20 minutes. Garnish with cilantro and serve with rice.</string>
+
+    <string name="veggie_stirfry_ingredients">2 cups mixed vegetables (bell peppers, broccoli, carrots), 2 tbsp soy sauce, 1 tbsp sesame oil, 1 clove garlic (minced), 1-inch ginger (grated), cooked rice (for serving).</string>
+    <string name="veggie_stirfry_instructions">Heat sesame oil in a pan over high heat, add garlic and ginger, and stir-fry for 30 seconds. Add vegetables and stir-fry for 5-7 minutes until tender-crisp, then add soy sauce and toss to combine. Serve over rice.</string>
+
+    <string name="caprese_ingredients">3 large tomatoes (sliced), 250g fresh mozzarella (sliced), fresh basil leaves, 1/4 cup olive oil, balsamic vinegar (optional), salt, pepper.</string>
+    <string name="caprese_instructions">Layer tomato and mozzarella slices on a plate, tuck basil leaves in between, drizzle with olive oil and balsamic vinegar, and season with salt and pepper.</string>
+
+    <string name="tacos_ingredients">500g ground beef or chicken, 1 packet taco seasoning, taco shells, toppings (lettuce, tomato, cheese, sour cream).</string>
+    <string name="tacos_instructions">Cook the meat in a pan until browned, add taco seasoning, and follow packet instructions. Fill taco shells with meat and top with your choice of toppings.</string>
+
+    <string name="pancakes_ingredients">1 cup flour, 2 tbsp sugar, 1 tbsp baking powder, 1/2 tsp salt, 1 cup milk, 1 egg, 2 tbsp melted butter.</string>
+    <string name="pancakes_instructions">In a bowl, mix flour, sugar, baking powder, and salt. In another bowl, whisk milk, egg, and melted butter, then combine wet and dry ingredients. Cook on a greased skillet until bubbles form, then flip.</string>
+
+    <string name="beef_stirfry_ingredients">500g beef (sliced thin), 2 cups mixed vegetables (bell peppers, broccoli), 3 tbsp soy sauce, 1 tbsp vegetable oil, 1 clove garlic (minced), cooked rice (for serving).</string>
+    <string name="beef_stirfry_instructions">Heat oil in a pan over high heat, add garlic and beef, and stir-fry until browned. Add vegetables and soy sauce, stir-fry until vegetables are tender, and serve over rice.</string>
+
+    <string name="minestrone_ingredients">1 onion (chopped), 2 carrots (diced), 2 celery stalks (diced), 2 cups diced tomatoes, 1 can kidney beans, 4 cups vegetable broth, 1 cup pasta, Italian seasoning, salt, pepper.</string>
+    <string name="minestrone_instructions">Sauté onion, carrots, and celery in a pot until softened, then add tomatoes, broth, beans, and pasta. Season with Italian seasoning, salt, and pepper, and simmer until pasta is cooked. Serve hot.</string>
+
+    <string name="cookies_ingredients">1 cup butter (softened), 1 cup sugar, 1 cup brown sugar, 2 eggs, 2 tsp vanilla extract, 3 cups flour, 1 tsp baking soda, 1/2 tsp salt, 2 cups chocolate chips.</string>
+    <string name="cookies_instructions">Preheat oven to 350°F (175°C). Cream butter and sugars together, beat in eggs and vanilla. Mix flour, baking soda, and salt, then gradually add to the wet mixture. Stir in chocolate chips, drop spoonfuls onto a baking sheet, and bake for 10-12 minutes.</string>
+
+    <string name="parfait_ingredients">2 cups Greek yogurt, 1 cup granola, 2 cups mixed berries (strawberries, blueberries, raspberries), honey (optional).</string>
+    <string name="parfait_instructions">In a glass, layer Greek yogurt, granola, and berries, then drizzle with honey if desired. Repeat layers and serve.</string>
+
+
+</resources>
